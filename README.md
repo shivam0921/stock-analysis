@@ -12,7 +12,7 @@ Stock Analysis project is to design the solution for the analysis of client to c
 ![VBA_Challenge_2017.png](https://github.com/shivam0921/stock-analysis/blob/main/VBA_Challenge_2017.png)
 
 *2018 refactored stock analysis image*
-
+![VBA_Challenge_2018.png](https://github.com/shivam0921/stock-analysis/blob/main/VBA_Challenge_2018.png)
 
 
 ### General Analysis and Refactored Analysis 
