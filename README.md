@@ -19,23 +19,21 @@ Stock Analysis project is to design the solution for the analysis of client to c
 
 *2017 general stock analysis speed image*
 
+![2017_Analyis_All_Stock.PNG](https://github.com/shivam0921/stock-analysis/blob/main/2017_Analyis_All_Stock.PNG)
 
 *2018 general stock analysis speed image*
 
-
-
-*2017 refactored stock analysis speed image*
-
-
-
-*2018 refactored stock analysis speed image*
+![2018_Analyis_All_Stock.PNG](https://github.com/shivam0921/stock-analysis/blob/main/2018_Analyis_All_Stock.PNG)
 
 
 *General Code*
 
+![All Stock Analysis Code.PNG](https://github.com/shivam0921/stock-analysis/blob/main/All%20Stock%20Analysis%20Code.PNG)
 
 
 *Refactored Code*
+
+![All Stock Analysis Refactored Code.PNG](https://github.com/shivam0921/stock-analysis/blob/main/All%20Stock%20Analysis%20Refactored%20Code.PNG)
 
 ## Summary 
 
